@@ -151,11 +151,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
-![WhatsApp Image 2024-03-12 at 16 06 33_7d904d91](https://github.com/TejaswiniGugananthan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121222763/03a38da8-d5cb-463e-9710-b2ab52202bed)
+![WhatsApp Image 2024-03-12 at 16 16 46_0e55084a](https://github.com/TejaswiniGugananthan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121222763/4e0a750d-b0ff-4a9c-b35f-cc08e18aa4aa)
 
- ![WhatsApp Image 2024-03-12 at 16 06 33_e06cb478](https://github.com/TejaswiniGugananthan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121222763/fe40243b-7182-4622-ae3f-f48b2ee4fa8e)
 
- 
+ ![WhatsApp Image 2024-03-12 at 16 16 47_091afd45](https://github.com/TejaswiniGugananthan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121222763/be7410f0-ff25-40aa-a53d-06a4aab4419a)
+
  
  
 ## Result :
